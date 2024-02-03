@@ -2,141 +2,103 @@
 	{
 		"id": "v6",
 		"name": "Volume 6",
-		"path": "/ln/v6.html",
-		"raw": "/ln/v6/raw.html",
 		"progress": 100
 	},
 	{
 		"id": "v7",
 		"name": "Volume 7",
-		"path": "/ln/v7.html",
-		"raw": "/ln/v7/raw.html",
 		"progress": 100
 	},
 	{
 		"id": "v8",
 		"name": "Volume 8",
-		"path": "/ln/v8.html",
-		"raw": "/ln/v8/raw.html",
 		"progress": 100
 	},
 	{
 		"id": "v8_5",
 		"name": "Volume 8.5 Side Stories",
-		"path": "/ln/v8.5.html",
-		"raw": "/ln/v8_5/raw.html",
 		"progress": 100
 	},
 	{
 		"id": "v9",
 		"name": "Volume 9",
-		"path": "/ln/v9.html",
-		"raw": "/ln/v9/raw.html",
 		"progress": 100
 	},
 	{
 		"id": "v10",
 		"name": "Volume 10",
-		"path": "/ln/v10.html",
-		"raw": "/ln/v10/raw.html",
 		"progress": 100
 	},
 	{
 		"id": "v11",
 		"name": "Volume 11",
-		"path": "/ln/v11.html",
-		"raw": "/ln/v11/raw.html",
 		"progress": 100,
 		"color": true
 	},
 	{
 		"id": "v12",
 		"name": "Volume 12",
-		"path": "/ln/v12.html",
-		"raw": "/ln/v12/raw.html",
 		"progress": 100,
 		"color": true
 	},
 	{
 		"id": "v13",
 		"name": "Volume 13",
-		"path": "/ln/v13.html",
-		"raw": "/ln/v13/raw.html",
 		"progress": 100,
 		"color": true
 	},
 	{
 		"id": "v13_5",
 		"name": "Volume 13.5 Side Stories",
-		"path": "/ln/v13.5.html",
-		"raw": "/ln/v13_5/raw.html",
 		"progress": 100
 	},
 	{
 		"id": "v14",
 		"name": "Volume 14",
-		"path": "/ln/v14.html",
-		"raw": "/ln/v14/raw.html",
 		"progress": 100,
 		"color": true
 	},
 	{
 		"id": "v15",
 		"name": "Volume 15",
-		"path": "/ln/v15.html",
-		"raw": "/ln/v15/raw.html",
 		"progress": 100,
 		"color": true
 	},
 	{
 		"id": "v16",
 		"name": "Volume 16 - Edited MTL",
-		"path": "/ln/v16.html",
-		"raw": "/ln/v16/raw.html",
 		"progress": 100,
 		"color": true
 	},
 	{
 		"id": "v17",
 		"name": "Volume 17 - Edited MTL",
-		"path": "/ln/v17.html",
-		"raw": "/ln/v17/raw.html",
 		"progress": 100
 	},
 	{
 		"id": "v18",
 		"name": "Volume 18 - Edited MTL",
-		"path": "/ln/v18.html",
-		"raw": "/ln/v18/raw.html",
 		"progress": 100
 	},
 	{
 		"id": "v19",
 		"name": "Volume 19 - Edited MTL",
-		"path": "/ln/v19.html",
-		"raw": "/ln/v19/raw.html",
 		"progress": 100
 	},
 	{
 		"id": "v20",
 		"name": "Volume 20 - Edited MTL",
-		"path": "/ln/v20.html",
-		"raw": "/ln/v20/raw.html",
 		"progress": 100,
 		"color": true
 	},
 	{
 		"id": "v21",
 		"name": "Volume 21 - In Progress",
-		"path": "/ln/v20.html",
-		"raw": "/ln/v20/raw.html",
 		"progress": 10
 	},
 	{
 		"id": "b1",
 		"name": "Special Booklet 1",
-		"path": "/ln/b1.html",
-		"raw": "/ln/b1/raw.html",
 		"progress": 100
 	}
 ]
